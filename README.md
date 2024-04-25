@@ -5,16 +5,16 @@ Welcome to the compilation of exercises in CSEL 302 including the midterm. This 
 
 ## The Topics
 1. [Linear Regression](Introduction)
-2. [Logistic Regression]()
+2. [Logistic Regression](Linerar-Regression)
 3. [Difference of Regressions]()
 4. [Conclusion]
 
 ## Compiled Activities
 <a href="2A_ORELLANO_EXER4.ipynb">Exercise 4</a><br>
-<a href="2A_ORELLANO_EXER5.ipynb">Exercise 5</a>
-<a href="2A_ORELLANO_EXER6.ipynb">Exercise 6</a>
-<a href="2A_ORELLANO_EXER6.ipynb">Exercise 7</a>
-<a href="2A_ORELLANO_MIDTERM.ipynb">Midterm</a>
+<a href="2A_ORELLANO_EXER5.ipynb">Exercise 5</a><br>
+<a href="2A_ORELLANO_EXER6.ipynb">Exercise 6</a><br>
+<a href="2A_ORELLANO_EXER6.ipynb">Exercise 7</a><br>
+<a href="2A_ORELLANO_MIDTERM.ipynb">Midterm</a><br>
 
 ## The Topics Description
 ### Linear Regression
