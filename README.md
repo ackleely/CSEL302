@@ -10,6 +10,6 @@ Welcome to the compilation of exercises in CSEL 302 including the midterm. This 
 4. [Conclusion]
 
 ## Compiled Activities
-[Exercise 4](2A_ORELLANO_EXER4.ipynb/README.md)
+<a href="2A_ORELLANO_EXER4.ipynb/README.md">Exercise 4</a>
 
 ## Topics
