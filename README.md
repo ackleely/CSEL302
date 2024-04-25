@@ -26,7 +26,8 @@ Logistic regression is a statistical model that calculates the probability of an
 When comparing logistic regression with linear regression, it's important to note their key differences. Logistic regression focuses primarily on probability. It is used to calculate the likelihood of an event occurring based on independent variables. On the other hand, linear regression is mainly concerned with predicting continuous outcomes based on an input variable. Therefore, logistic regression and linear regression have different applications and interpretations.
 
 ## Conclusion
-GitHub makes it easy to share files for working together in real time. Git keeps a record of all changes made to the files. It also helps with work documentation. GitHub is a great tool for managing versions of software, and it's also a place for teamwork, learning, and effective software development. No matter if you're a developer, researcher, or student, GitHub can improve how you develop software.
+GitHub makes it easy to share files for working together in real time. Git keeps a record of all changes made to the files. It also helps with work documentation. GitHub is a great tool for managing versions of software, and it's also a place for teamwork, learning, and effective software development. No matter if you're a developer, researcher, or student, GitHub can improve how you develop software. With GitHub I am able to compile the topics that I learned during the practical activities and lecture. It works like a digital storage box, making it easy for me to find and look at my old work and studies. This makes my ongoing learning in software development smoother.
+
 
 
 
