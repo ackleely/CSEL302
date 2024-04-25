@@ -4,7 +4,7 @@
 Welcome to the compilation of exercises in CSEL 302 including the midterm. This is the compilation of the activities given by the professor for on-hands or practical activities during the lab. The midterm practical activitiy is also included in this compilation. There is also summary of the topics.
 
 ## The Topics
-1. [Linear Regression](Introduction)
+1. [Linear Regression](Introduction/README.md)
 2. [Logistic Regression](Linerar-Regression)
 3. [Difference of Regressions]()
 4. [Conclusion]
