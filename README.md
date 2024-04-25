@@ -4,9 +4,9 @@
 Welcome to the collection of exercises for CSEL 302, which includes not only the lab activities but also the midterm examination. This set includes all the activities we did in the lab, given by our professor Mr. Bernardino. It also includes the practical part of the midterm exam. Plus, there's a summary of all the topics we covered in the course.
 
 ## The Topics
-1. [Linear Regression]()
-2. [Logistic Regression]()
-3. [Difference of Regressions]()
+1. Linear Regression
+2. Logistic Regression
+3. Difference of Regressions
 
 ## Compiled Activities
 <a href="2A_ORELLANO_EXER4.ipynb">Exercise 4</a><br>
