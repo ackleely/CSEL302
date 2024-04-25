@@ -11,7 +11,7 @@ Welcome to the compilation of exercises in CSEL 302 including the midterm. This 
 
 ## Compiled Activities
 1. <a href="2A_ORELLANO_EXER4.ipynb">Exercise 4</a>
-<a href="2A_ORELLANO_EXER5.ipynb">Exercise 5</a>
+2. <a href="2A_ORELLANO_EXER5.ipynb">Exercise 5</a>
 <a href="2A_ORELLANO_EXER6.ipynb">Exercise 6</a>
 <a href="2A_ORELLANO_EXER6.ipynb">Exercise 7</a>
 <a href="2A_ORELLANO_MIDTERM.ipynb">Midterm</a>
