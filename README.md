@@ -17,18 +17,16 @@ Welcome to the collection of exercises for CSEL 302, which includes not only the
 
 ## The Topics Description
 ### Linear Regression
-In a basic linear regression, there is just one explanation variable taken into account. The objective is to establish a linear link between the answer and this variable. Several fields find usage for linear regression, such as Environmental Science, where it is employed to investigate air pollution, infectious illnesses, and land use, and Machine Learning, where linear regression is crucial to machine learning models.
+In simple linear regression, only one explanatory variable is considered. The goal is to establish a linear relationship between the response and this variable. Linear regression is utilized in various fields. For instance, in Environmental Science, it's used to study air pollution, infectious diseases, and land use. In Machine Learning, linear regression plays a vital role in creating models.
 
 ### Logistic Regression
-A statistical model called logistic regression calculates an occurrence's probability of happening given a set of independent factors.  In binary logistic regression, the independent variables may be continuous or binary, whereas the dependent variable is binary (coded as "0" or "1").  Predicting a patient's propensity to have a specific ailment (e.g., diabetes). This is applied in the following areas: Finance: Determining the likelihood of a loan default.
-Marketing: Calculating the probability of consumer attrition.
-Sports: Projecting a game's result.
+Logistic regression is a statistical model that calculates the probability of an event occurring based on a set of independent variables. In binary logistic regression, these independent variables can be either continuous or binary, while the dependent variable is binary ("0" or "1"). For example, it can predict a patient's likelihood of having a specific disease, such as diabetes. This model is widely used in several fields. In finance, it is used to determine the likelihood of a loan default. In marketing, it helps calculate the probability of consumer attrition. In sports, it can project the outcome of a game.
 
 ### Difference of Regresssion
-Comparing Logistic Regression with Linear Regression: Logistic regression is more concerned with probability than linear regression is with continuous result prediction. While logistic regression models the log-odds (logarithm of the odds), linear regression models the mean response directly.
+When comparing logistic regression with linear regression, it's important to note their key differences. Logistic regression focuses primarily on probability. It is used to calculate the likelihood of an event occurring based on independent variables. On the other hand, linear regression is mainly concerned with predicting continuous outcomes based on an input variable. Therefore, logistic regression and linear regression have different applications and interpretations.
 
 ## Conclusion
-Using the Github it became flexible to share files for real-time collaboration. Git keeps track of every change made to files in the repository. It also help with the documentatio of the works. GitHub is not only a powerful platform for version control but also a hub for collaboration, learning, and efficient software development. Whether you’re a developer, researcher, or student, GitHub can transform your development process
+GitHub makes it easy to share files for working together in real time. Git keeps a record of all changes made to the files. It also helps with work documentation. GitHub is a great tool for managing versions of software, and it's also a place for teamwork, learning, and effective software development. No matter if you're a developer, researcher, or student, GitHub can improve how you develop software.
 
 
 
