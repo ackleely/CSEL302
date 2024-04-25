@@ -7,7 +7,7 @@ Welcome to the compilation of exercises in CSEL 302 including the midterm. This 
 1. [Linear Regression](Introduction/README.md)
 2. [Logistic Regression](Linerar-Regression)
 3. [Difference of Regressions]()
-4. [Conclusion]
+4. [Conclusion]()
 
 ## Compiled Activities
 <a href="2A_ORELLANO_EXER4.ipynb">Exercise 4</a><br>
